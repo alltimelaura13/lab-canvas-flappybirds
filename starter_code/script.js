@@ -5,6 +5,8 @@ window.onload = function() {
 
   function startGame() {
 
-  }
+    var canvas = new Canvas("canvas");
+    // canvas.draw();
 
+  }
 };
