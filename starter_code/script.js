@@ -6,6 +6,8 @@ window.onload = function() {
   function startGame() {
 
     var canvas = new Canvas("canvas");
+    var bird = new Bird("bird");
+    bird.draw();
     // canvas.draw();
 
   }
