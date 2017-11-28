@@ -1,3 +1,11 @@
+var myObstacles = [];
+frames: 0;
+
+
+
+
+
+
 function Obstacle(id) {
   this.canvas = canvas;
   this.ctx = this.canvas.getContext("2d");
